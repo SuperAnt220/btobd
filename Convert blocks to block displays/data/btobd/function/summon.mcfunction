@@ -1,0 +1,2 @@
+$summon item_display $(x).5 $(y).5 $(z).5 {Tags:["btobd.converter"],view_range:0f,width:0f}
+execute as @e[type=item_display,tag=btobd.converter,limit=1] at @s run function btobd:process_area with storage btobd:convert_area

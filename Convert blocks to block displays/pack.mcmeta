@@ -1,0 +1,6 @@
+{
+	"pack": {
+		"pack_format": 61,
+		"description": "Convert blocks to block displays by SuperAnt_. Uses Blockstate library"
+	}
+}
