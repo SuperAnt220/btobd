@@ -10,9 +10,16 @@
     "overlays": {
       "entries": [
         {
-          "directory": "1.21.5-1.21.8",
+          "directory": "1.21.5",
           "formats": {
             "min_inclusive": 62,
+            "max_inclusive": 71
+          }
+        },
+        {
+          "directory": "1.21.6-1.21.8",
+          "formats": {
+            "min_inclusive": 72,
             "max_inclusive": 81
           }
         }

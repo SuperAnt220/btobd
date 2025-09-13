@@ -1,0 +1,3 @@
+tellraw @s {"color": "#0bc6ff","text": "Pos1 set"}
+execute at @s run playsound block.note_block.xylophone player @s ~ ~ ~ 0.5 1.2
+execute align xyz positioned ~.5 ~.5 ~.5 run summon block_display ~ ~ ~ {Glowing:1b,glow_color_override:1231103,transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[-0.5f,-0.5f,-0.5f],scale:[1.01f,1.01f,1.01f]},block_state:{Name:"minecraft:light_blue_stained_glass"},Tags:["btobd.pos1","btobd.pos_entity"],brightness:{sky:15,block:15},Passengers:[{id:"minecraft:text_display",billboard:"center",see_through:1b,alignment:"center",Tags:["btobd.pos_entity"],transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[1.5f,1.5f,1.5f]},text:{"color":"#0aceff","text":"pos1"}}]}
