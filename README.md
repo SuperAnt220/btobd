@@ -1,7 +1,7 @@
 # Convert blocks to block displays
 This configurable datapack allows to select an area of blocks in worldedit style and convert all the blocks into corresponding block displays. This datapack works very well with [Axiom](https://modrinth.com/mod/axiom) mod, as it allows to group display entities and manipulate them easily afterwards.
 
-### Version: <FONT COLOR="#ff39eb">1.21.4</FONT>, other versions will be added soon
+### Versions: <FONT COLOR="#ff39eb">1.21.4-1.21.8</FONT>
 
 ## Usage
 - `/function btobd:admin/give_converter_stick` - gives you the stick to set pos1 and pos2:
