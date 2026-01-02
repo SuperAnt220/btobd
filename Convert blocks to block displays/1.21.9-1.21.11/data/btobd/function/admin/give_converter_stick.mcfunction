@@ -1,0 +1,1 @@
+give @s carrot_on_a_stick[custom_data={btobd.converter_stick:1b},enchantment_glint_override=true,consumable={consume_seconds:999999999},item_name='Converter stick',rarity=rare,lore=[{"italic": false, "text": "Right click → set Pos1"},{"italic": false, "text": "Right click again → set/move Pos2"},{"italic": false, "text": "Shift+Right click → Clear Pos1 and Pos2"}]]

@@ -1,6 +1,8 @@
 {
 	"pack": {
 		"pack_format": 61,
+    "min_format": 61,
+    "max_format": 9999,
 		"description": "Convert blocks to block displays by SuperAnt_. Uses Blockstate library",
 		"supported_formats": {
             "min_inclusive": 61,
@@ -22,6 +24,15 @@
             "min_inclusive": 72,
             "max_inclusive": 81
           }
+        },
+        {
+          "directory": "1.21.9-1.21.11",
+          "formats": {
+            "min_inclusive": 82,
+            "max_inclusive": 9999
+          },
+          "min_format": 82,
+          "max_format": 9999
         }
       ]
     }
